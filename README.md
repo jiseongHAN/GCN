@@ -24,3 +24,9 @@ python cora.py
     <img src="asset/loss.png", width="350"/>
     <img src="asset/val.png", width="350"/>
 </p>
+
+
+## Reference
+[Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/pdf/1609.02907.pdf)
+
+[Collective Classification in Network Data, AI Magazine 2008](http://linqs.cs.umd.edu/projects/projects/lbc/)
