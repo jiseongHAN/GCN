@@ -5,6 +5,7 @@
 Simple implementation with Pytorch.
 
 gnn/GCN is implementation with nn.Linear
+
 gcn/GCNN is implementation with nn.Parameter
 
 ## Getting started
