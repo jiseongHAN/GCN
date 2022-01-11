@@ -38,13 +38,4 @@ for i in range(1, 201):
     print(f"ACC: {acc * 100:.2f}%")
     print("=" * 30)
 
-plt.plot(val_list)
-plt.title(label="Validation Accuracy")
-plt.savefig("val.png")
-plt.show()
-plt.plot(loss_list)
-plt.title(label="Loss")
-plt.savefig("loss.png")
-plt.show()
-
 
