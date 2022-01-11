@@ -4,9 +4,9 @@
 
 Simple implementation with Pytorch.
 
-gnn/GCN is implementation with nn.Linear
+gnn/GCN: implementation with nn.Linear
 
-gcn/GCNN is implementation with nn.Parameter
+gcn/GCNN: implementation with nn.Parameter
 
 ## Getting started
 
